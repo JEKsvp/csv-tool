@@ -12,5 +12,4 @@ public interface NotesService {
     NoteFile downloadNotes(NoteFilter filter);
 
     void deleteNotes();
-
 }
